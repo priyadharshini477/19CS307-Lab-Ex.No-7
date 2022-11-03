@@ -32,5 +32,5 @@ b.To display the crops cultivated and the machinery employed in harvesting using
 
 
 
- # Result : a.Thus the are of the triangle was calculated and the required output was obtained.
-            b.Thus the cultivated crops and the machinery employed in harvesting were displayed using Javascript arrays.
+ # Result : a.Thus the area of the triangle was calculated and the required output was obtained.
+         #  b.Thus the cultivated crops and the machinery employed in harvesting were displayed using Javascript arrays.
